@@ -1,0 +1,9 @@
+F->SF[L+F-F]SFF[L-F+FA][L-F-F]
+
+AXIOM : F
+N : 3
+ALPHA0 : 80
+ANGLE : 35
+
+
+
